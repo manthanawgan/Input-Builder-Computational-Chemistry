@@ -4,7 +4,7 @@ import textwrap
 import os
 
 class ComputationalChemistryInputBuilder(tk.Tk):
-    def __init__(self):           #here we made a constructor
+    def __init__(self):           #here we made aconstructor
         super().__init__()
         self.title("INPUT BUILDER")
         self.geometry_file = ""
