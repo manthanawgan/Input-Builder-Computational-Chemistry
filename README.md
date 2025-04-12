@@ -69,5 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Project by [@manthanawgan](https://github.com/manthanawgan) and [whoisshashank](https://github.com/whoisshashank)
+- Project by [Manthan Awgan](https://github.com/manthanawgan) and [Shashank Srivastava](https://github.com/whoisshashank)
 - Built with Python and Tkinter
