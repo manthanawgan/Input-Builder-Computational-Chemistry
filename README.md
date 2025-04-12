@@ -69,5 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Project by Manthan and shashank
+- Project by @manthanawgan and @whoisshashank
 - Built with Python and Tkinter
